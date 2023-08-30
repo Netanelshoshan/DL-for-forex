@@ -5,7 +5,7 @@ In this repo you can find seminar, presentation and a demo, showing how one can 
 This project utilizes a combination of convolutional and LSTM neural networks to predict forex prices. Specifically, it
 focuses on predicting the `EURUSD` currency pair's hourly price.
 
-##### There are many to tweak the model to make it more robust, whether if its DBSCAN,DI,SVM to identify outliers and prevent the model from trading while there are sudden changes or add more features, or even setting up threshold for certain actions. Also, you can incorporate attention mechanism but that's for the reader to experiment with.
+##### There are many ways to tweak the model to make it more robust, whether if its DBSCAN,DI,SVM to identify outliers and prevent the model from trading while there are sudden changes or by adding more features, setting up threshold for certain actions. Also, you can incorporate attention mechanism like i did in [here](https://github.com/Netanelshoshan/freqAI-LSTM) .
 
 ##### You read more about LSTM-Attention here: https://netanel.io/posts/freqai_lstm_reg/
 
